@@ -9,3 +9,5 @@ Projeto elaborado para uma iniciativa ambiental
  ou seja, ao analisarmos as lixeiras com seus respectiveis niveis, conseguimos recalcular rotas e ser mais eficientes e assertivos para uma melhor redução de custos e  gestão entre locais.
 
 Esse projeto esta no padrao MVC - Model View Controller, porém, também foi criado ele em Microsservices - Rest e Restfull.
+
+O projeto se encontra no respectivbo caminho: Ambiental/Projeto-Residuos/src/main/java/br/com/fiap/ambiental
